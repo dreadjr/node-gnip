@@ -1,6 +1,6 @@
 {
   "name": "node-gnip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,11 @@
   "homepage": "https://github.com/dreadjr/node-gnip#readme",
   "dependencies": {
     "assert-plus": "^0.2.0",
+    "lodash": "^3.10.1",
+    "oauth": "^0.9.14",
     "require-all": "^2.0.0",
-    "string": "^3.3.1"
+    "string": "^3.3.1",
+    "superagent": "^1.6.1",
+    "superagent-oauth": "david-richer-adsk/superagent-oauth"
   }
 }
