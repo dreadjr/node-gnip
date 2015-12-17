@@ -1,0 +1,24 @@
+{
+  "name": "node-gnip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreadjr/node-gnip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreadjr/node-gnip/issues"
+  },
+  "homepage": "https://github.com/dreadjr/node-gnip#readme",
+  "dependencies": {
+    "assert-plus": "^0.2.0",
+    "require-all": "^2.0.0",
+    "string": "^3.3.1"
+  }
+}
